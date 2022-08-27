@@ -7,7 +7,7 @@ Fun little bash script to draw some ASCII art in you terminal.
 
 `./animate.sh <number or lines> <path to animation files folder>`
 
-number of lines: the number of lines your animation will need. Note: every frame needs to be the same height
+number of lines: the number of lines your animation uses (plus 1 for the extra line added by the script). Note: every frame needs to be the same height
 
 ## Animation files
 
