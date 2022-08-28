@@ -19,3 +19,10 @@ Two examples are provided:
 
 1. a simple one line 'human': `.\animate.sh 2 eyes`
 2. nyan cat: `.\animate.sh 16 nyan`
+
+
+# Troubleshooting
+
+While creating a new animation, you might find youself stopping the script before it has finished.
+
+To make the animation look more smooth, the script hides the cursor during its execution. Killing the script mid-run will not automatically re-enable your cursor. To fix it simply run `tput cnorm` to make it visible again!
