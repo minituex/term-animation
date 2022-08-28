@@ -17,9 +17,9 @@ The files need to be readible for the user executing the script and need to be i
 
 The followiung examples are provided:
 
-1. a simple one line 'human': `.\animate.sh 2 eyes`
-2. nyan cat: `.\animate.sh 16 nyan`
-3. pusheen: `.\animate.sh 16 pusheen`
+1. a simple one line 'human': `./animate.sh 2 eyes`
+2. nyan cat: `./animate.sh 16 nyan`
+3. pusheen: `./animate.sh 16 pusheen`
 
 
 # Troubleshooting
